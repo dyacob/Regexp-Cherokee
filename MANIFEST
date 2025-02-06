@@ -1,0 +1,9 @@
+Changes
+LICENSE
+MANIFEST
+Makefile.PL
+README
+examples/overload.pl
+examples/utils.pl
+lib/Regexp/Cherokee.pm
+t/01re.t
