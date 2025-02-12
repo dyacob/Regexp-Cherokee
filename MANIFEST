@@ -10,3 +10,5 @@ examples/overload.pl
 examples/utils.pl
 lib/Regexp/Cherokee.pm
 t/01re.t
+META.yml
+META.json

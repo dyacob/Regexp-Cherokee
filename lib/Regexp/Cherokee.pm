@@ -458,7 +458,7 @@ modify it under the same terms as Perl itself. See L<perlartistic>.
 
 Included with this package:
 
-  examples/overload.pl    examples/utils.p
+  examples/overload.pl    examples/utils.pl
 
 
 =cut
